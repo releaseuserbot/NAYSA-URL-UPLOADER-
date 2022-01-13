@@ -4,7 +4,6 @@ hachoir
 numpy
 Pillow
 requests
-https://github.com/Tellybots/yt-dlp/archive/refs/tags/2022.01.13.zip
 olefile
 filetype
 tldextract
@@ -14,3 +13,4 @@ dnspython
 pyrogram
 tgcrypto
 psutil
+git+git://github.com/yt-dlp/yt-dlp.git
