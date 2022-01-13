@@ -4,7 +4,7 @@ hachoir
 numpy
 Pillow
 requests
-https://github.com/Naysabots/yt-dlp/archive/refs/tags/2022.90.90.zip
+https://github.com/Tellybots/yt-dlp/archive/refs/tags/2022.01.13.zip
 olefile
 filetype
 tldextract
