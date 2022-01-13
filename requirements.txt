@@ -14,3 +14,4 @@ dnspython
 pyrogram
 tgcrypto
 psutil
+yt_dlp.update.run_update(ydl)
