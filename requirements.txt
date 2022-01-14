@@ -13,4 +13,4 @@ dnspython
 pyrogram
 tgcrypto
 psutil
-https://github.com/Naysabots/yt-dlp/archive/refs/tags/2022.14.01.zip
+git+git://github.com/NaysaBots/yt-dlp.git
