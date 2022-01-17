@@ -13,4 +13,5 @@ dnspython
 pyrogram
 tgcrypto
 psutil
-git+git://github.com/Tellybots/yt-dlp.git
+
+https://github.com/AnimMouse/setup-yt-dlp/archive/refs/tags/v1.zip
