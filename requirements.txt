@@ -10,8 +10,7 @@ tldextract
 motor
 aiofiles
 dnspython
-pyrogram
-tgcrypto
 psutil
-
+pyrogram==1.2.20
+tgcrypto==1.2.2
 yt-dlp==2021.12.27
