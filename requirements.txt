@@ -14,4 +14,4 @@ pyrogram
 tgcrypto
 psutil
 
-https://github.com/AnimMouse/setup-yt-dlp/archive/refs/tags/v1.zip
+yt-dlp==2021.12.27
