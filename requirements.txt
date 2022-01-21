@@ -14,4 +14,4 @@ psutil
 pyrogram==1.2.20
 tgcrypto==1.2.2
 
-git+git://github.com/Tellybots/yt_dlp.git
+git+git://github.com/Tellybots/yt-dlps.git
