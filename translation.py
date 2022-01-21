@@ -74,7 +74,7 @@ Made With 💕 By @Tellybots_4u
     ANNO_UPLOAD = " UploadinG📤 \n\n To  anonfiles.com "
     BAY_UPLOAD = " UploadinG📤 \n\n To  bayfiles.com "
     GO_FILE_UPLOAD = " 📤UploadinG📤 \n\n To  gofile.io "
-    DOWNLOAD_START = "📄 Media Info\n\nFile: <code>{}</code>\n\n📥 Downloading started..."
+    DOWNLOAD_START = "📄 Media Info\n\nFile: <code>[1]</code>\n\n📥 Downloading started..."
     UPLOAD_START = "📤 Uploading Please Wait..."
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
