@@ -15,7 +15,7 @@ import os
 import shutil
 import time
 from datetime import datetime
-from sample_config import config
+from sample_config import Config
 from translation import Translation
 from plugins.custom_thumbnail import *
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
