@@ -13,4 +13,5 @@ dnspython
 psutil
 pyrogram==1.2.20
 tgcrypto==1.2.2
-yt_dlp
+
+git+git://github.com/Tellybots/yt_dlp.git
