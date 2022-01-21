@@ -13,4 +13,4 @@ dnspython
 psutil
 pyrogram==1.2.20
 tgcrypto==1.2.2
-yt-dlp==2021.10.09
+yt_dlp
