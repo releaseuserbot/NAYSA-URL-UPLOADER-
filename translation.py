@@ -31,7 +31,7 @@ Made With 💕 By @Tellybots
     ABOUT_TEXT = """
  **🤖 Bot :** URL Uploader\n
  **👲 Developer :** [Tellybots](https://telegram.me/tellybots)\n
- **👥 Channel :** [Tellybots](https://telegram.me/tellybots\n
+ **👥 Channel :** [Tellybots](https://telegram.me/tellybots)\n
  **❄️ Credits :** Everyone in this journey\n
  **🍴 Source :** [Click here](https://t.me/tellybots_digital)\n
  **📝 Language :** [Python3](https://python.org)\n
