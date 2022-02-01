@@ -11,7 +11,7 @@ I can Upload Any Link in File or Video
 
 Use Help Button to Know How to Use me
 
-Made With 💕 By @Tellybots_4u
+Made With 💕 By @Tellybots
 """
     HELP_TEXT = """
 Link to Media or File
@@ -26,12 +26,12 @@ Deleting Thumbnail
 Show Thumbnail
 ➠ Send /showthumb to view custom thumbnail.
 
-Made With 💕 By @Tellybots_4u
+Made With 💕 By @Tellybots
 """
     ABOUT_TEXT = """
  **🤖 Bot :** URL Uploader\n
- **👲 Developer :** [Tellybots_4u](https://telegram.me/tellybots_4u)\n
- **👥 Channel :** [Tellybots_4u](https://telegram.me/tellybots_4u)\n
+ **👲 Developer :** [Tellybots](https://telegram.me/tellybots)\n
+ **👥 Channel :** [Tellybots](https://telegram.me/tellybots\n
  **❄️ Credits :** Everyone in this journey\n
  **🍴 Source :** [Click here](https://t.me/tellybots_digital)\n
  **📝 Language :** [Python3](https://python.org)\n
@@ -40,7 +40,7 @@ Made With 💕 By @Tellybots_4u
 """
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🤖 Channel', url='https://telegram.me/tellybots_4u'),
+        InlineKeyboardButton('🤖 Channel', url='https://telegram.me/tellybots'),
         InlineKeyboardButton('💬 Support', url='https://telegram.me/tellybots_support')
         ],[
         InlineKeyboardButton('❔ Help', callback_data='help'),
