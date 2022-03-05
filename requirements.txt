@@ -11,7 +11,7 @@ motor
 aiofiles
 dnspython
 psutil
-pyrogram==1.2.20
-tgcrypto==1.2.2
+pyrogram
+tgcrypto
 
-git+git://github.com/Tellybots/ytdlps.git
+yt-dlp
